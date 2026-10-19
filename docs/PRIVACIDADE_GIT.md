@@ -6,7 +6,7 @@ Revisão inicial em 19/10/2026, antes do primeiro commit.
 
 A revisão dos arquivos candidatos ao versionamento não encontrou padrões de credenciais conhecidas, chaves privadas, e-mails pessoais ou CPF. Foram verificadas atribuições de senha/token, URLs e referências a arquivos locais. Isto é uma varredura por padrões com revisão dos achados, não uma garantia de ausência de todo dado sensível.
 
-Persistem nomes próprios, decisões editoriais e caminhos locais em documentos e defaults de conectores herdados. São metadados pessoais e operacionais, embora não sejam credenciais. O repositório deve permanecer privado. Uma publicação pública exigiria uma revisão adicional e a parametrização desses caminhos.
+Persistem nomes próprios, decisões editoriais e caminhos locais em documentos e defaults de conectores herdados. São metadados pessoais e operacionais, embora não sejam credenciais. Na revisão inicial, a recomendação foi manter o repositório privado. Após revisão adicional do histórico e dos artefatos versionados, Lucas autorizou explicitamente a publicação do código em 19/10/2026. Os caminhos locais e nomes herdados continuam sendo referências de desenvolvimento; gravações, configurações reais e relatórios de produção permanecem fora do Git.
 
 ## Proteções aplicadas
 
