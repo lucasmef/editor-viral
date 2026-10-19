@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "version": "voz-neural-editor-v1.0.0",
+  "bundle": ".runtime/processors/voz-neural-editor-v1.0.0",
+  "manifestSha256": "33482e20ec1f250b9734485add94be4440261908ffd4009bb15010df0b0d6f97",
+  "approvalSha256": "84fe61237028db6970c47a04fea617a53fee6ae79c494f1a25441e69fc9ca629",
+  "approvalFingerprint": "84977c7849627805c38affb9a6251dcbc517701b8f731eab1c06e116405991f1"
+}

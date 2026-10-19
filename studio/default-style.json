@@ -1,0 +1,86 @@
+{
+  "version": "proposed-2026-10-13",
+  "layout": {
+    "labels": [
+      {
+        "text": "girl",
+        "x": 355,
+        "y": 153.6,
+        "fontFamily": "Fredoka",
+        "fontSize": 100,
+        "fontWeight": 700,
+        "strokeWidth": 8,
+        "color": "#eea8c7",
+        "mediaId": "m-0239412486a95291fd4393e776e98304d6e53b23ed4f64810023d9715b9c8a19",
+        "width": 180,
+        "height": 124.42006269592477,
+        "crop": {
+          "x": 143,
+          "y": 94,
+          "width": 1276,
+          "height": 882,
+          "imageWidth": 1536,
+          "imageHeight": 1024
+        }
+      },
+      {
+        "text": "boy",
+        "x": 1080,
+        "y": 153.6,
+        "fontFamily": "Fredoka",
+        "fontSize": 100,
+        "fontWeight": 700,
+        "strokeWidth": 8,
+        "color": "#b1d8f5",
+        "mediaId": "m-59f7bf59812e89ba9a3ac9d74dd7ce9c57a16ee0695c478926a228d880f78e68",
+        "width": 190,
+        "height": 110.0,
+        "crop": {
+          "x": 250,
+          "y": 79,
+          "width": 1349,
+          "height": 781,
+          "imageWidth": 1817,
+          "imageHeight": 866
+        }
+      }
+    ],
+    "caption": {
+      "x": 370,
+      "y": 980,
+      "width": 700,
+      "fontSize": 49
+    },
+    "safeMargin": 0.06,
+    "lookGuides": {
+      "top": 0.138671875,
+      "bottom": 0.6640625
+    }
+  },
+  "captionPolicy": {
+    "mode": "word",
+    "omit": [
+      "a",
+      "o",
+      "as",
+      "os",
+      "e",
+      "de",
+      "da",
+      "do",
+      "das",
+      "dos",
+      "com"
+    ],
+    "punctuation": false,
+    "preserve": [
+      "não",
+      "sem",
+      "nem"
+    ],
+    "highlight": "underline",
+    "continuous": true
+  },
+  "approval": "pending",
+  "note": "Padrão do projeto editor confirmado por Lucas em 17/10/2026 para títulos girl/boy e guias. Ver docs/PADRAO_VISUAL_101.md. Aparência das legendas permanece a calibrar; cópias de estilo de vídeos existentes são preservadas."
+}

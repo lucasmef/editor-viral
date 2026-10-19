@@ -1,0 +1,7 @@
+Estamos no projeto editor-viral, em /Users/lucas/Documents/Codex/editor-viral. Leia AGENTS.md, docs/EDITOR_VIRAL.md, docs/VALIDACAO_INICIAL.md e skills/editor-viral/SKILL.md. É uma cópia independente do editor da Raquel; não altere ../editor nem os vídeos 174/177. Use studio/storage.json para todos os caminhos.
+
+Lucas quer vídeos digitais com cortes, zooms intencionais, ritmo variável, legendas dinâmicas e destaques. Entradas podem ser roteiro com ordem aprovada, um vídeo para corte simples ou vídeo longo sem roteiro. No último caso, transcreva, confira o áudio, localize ganchos e proponha uma narrativa com tempos reais de origem. Uma frase do meio pode abrir o vídeo, preservando seu sentido. Não invente fala, tempos, métricas ou aprovação.
+
+Use Oliveto (identificador gepeto) quando disponível: skillmaster e social, com marketing-psychology de apoio; copywriting/copy-editing quando pertinente. A skill local já conecta marketing ao plano de edição. Não modificar o plugin global por padrão. Remotion e Premiere foram mantidos; não instalar HyperFrames.
+
+A criação da cópia não implementou novos efeitos nem removeu gates de looks. Para o primeiro piloto, adapte explicitamente o modo sem looks com testes, valide a transferência em projeto separado, depois percorra corte aprovado, acabamento, composição, Premiere e aprovação do arquivo exato. Não contorne gates com valores falsos. Se ainda não houver gravação/roteiro, peça o material e o objetivo do primeiro vídeo; não invente um job real.

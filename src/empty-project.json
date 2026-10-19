@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "videoId": "novo",
+  "width": 1440,
+  "height": 2560,
+  "fps": 60,
+  "durationInFrames": 60,
+  "timingStatus": "draft",
+  "source": null,
+  "shots": [],
+  "scenes": [],
+  "captions": [],
+  "reviews": {},
+  "layout": {
+    "labels": [],
+    "caption": {
+      "x": 370,
+      "y": 940,
+      "width": 700,
+      "fontSize": 58
+    }
+  }
+}

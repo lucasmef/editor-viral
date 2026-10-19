@@ -1,0 +1,6 @@
+interface:
+  display_name: "Editor de vídeos da Raquel"
+  short_description: "Edição de moda com stills sincronizados e revisão local"
+  default_prompt: "Use $raquel-video-editor para editar este bruto no estilo da referência escolhida."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "roots": {
+    "assets": "/CAMINHO/ABSOLUTO/EditorViral/Assets",
+    "edit": "/CAMINHO/ABSOLUTO/EditorViral/Edit",
+    "source": "/CAMINHO/ABSOLUTO/EditorViral/Source",
+    "soundfx": "/CAMINHO/ABSOLUTO/EditorViral/SoundFx",
+    "ready": "/CAMINHO/ABSOLUTO/EditorViral/Prontos",
+    "cache": "/CAMINHO/ABSOLUTO/EditorViral/Cache"
+  }
+}

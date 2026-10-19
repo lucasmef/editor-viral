@@ -1,0 +1,50 @@
+# Dependências e runtimes locais
+node_modules/
+.pnpm-store/
+.remotion/
+.venv/
+.runtime/
+.local-bin/
+.cache/
+__pycache__/
+*.py[cod]
+.DS_Store
+*.log
+
+# Credenciais e configurações pessoais
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+.npmrc
+.netrc
+studio/storage.json
+
+# Mídia, projetos e resultados de execução
+out/
+public/media/
+/references/
+handoffs/
+*.mov
+*.MOV
+*.mp4
+*.wav
+*.mp3
+*.prproj
+
+# Histórico local herdado, sem republicar aprovações
+/docs/audits/
+/docs/COPIA_ORIGEM.json
+/docs/VALIDACAO_INICIAL.json
+/docs/VALIDACAO_INICIAL.md
+/docs/STORAGE_MIGRATION_REPORT.md
+/docs/AGENTS_ORIGEM_2026-10-19.md
+/docs/README_ORIGEM_2026-10-19.md
+/docs/PROMPT_PESQUISA_MASCULINA_177.md
+/studio/templates/premiere/*.approval.json
+/scripts/test_face_connector_real.py
+# Template herdado contém previews de mídia; permanece somente local
+/studio/templates/premiere/*.mogrt

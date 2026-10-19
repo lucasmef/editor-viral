@@ -1,0 +1,11 @@
+{
+  "version": "no-looks-v1",
+  "layout": {
+    "labels": [],
+    "caption": {"x": 144, "y": 1920, "width": 1152, "fontSize": 72, "highlight": "underline"},
+    "safeMargin": 0.06
+  },
+  "captionPolicy": {"mode": "word", "omit": [], "punctuation": true, "continuous": false},
+  "approval": "pending",
+  "note": "Base neutra para piloto sem looks; aparência e posição devem ser calibradas no vídeo real. Nenhuma aprovação herdada."
+}
